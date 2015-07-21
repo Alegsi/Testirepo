@@ -1,1 +1,2 @@
-Rikkaruohot on rumia niiden juuret on kumia
+lorem ipsum doloret sim
+>>>>>>> origin/master
